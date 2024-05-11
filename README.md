@@ -4,13 +4,13 @@ This project uses React, a JavaScript library for building user interfaces, to c
 ## Available Scripts
 In the project directory, you can use the following scripts:
 
-### npm start: 
+### `npm start`: 
 Runs the app in development mode. Open http://localhost:3000 to view it in your browser. The page will automatically reload when you make changes to the code.
 
-### npm test: 
+### `npm test`: 
 Launches the test runner in interactive watch mode. This allows you to test your components as you develop them.
 
-### npm run build:
+### `npm run build`:
 Builds the app for production to the build folder. This optimizes the app for the best performance and prepares it for deployment.
 
 ## Features
